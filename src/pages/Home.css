@@ -1,0 +1,10 @@
+.Background {
+    background-image: url(../assets/Background.png);
+    height: 452px;
+    object-fit: cover;
+    display: grid;
+}
+.headline{
+    display: block;
+    justify-content: center;
+}
